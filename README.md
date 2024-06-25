@@ -26,7 +26,7 @@ This repository contains a Testimonial Page project developed for Dev Challenges
 
 ## Description
 
-This project showcases a business blog card layout. It is part of the Dev Challenges series, focusing on front-end development skills.
+This project showcases a Testimonial Page layout. It is part of the Dev Challenges series, focusing on front-end development skills.
 
 <br>
 
