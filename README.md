@@ -17,7 +17,6 @@ This repository contains a Testimonial Page project developed for Dev Challenges
 - [Dev Challenges](#dev-challenges)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Configuration](#configuration)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -60,12 +59,6 @@ Check out the live demo [here](https://testimonial-page-by-rakeshmal-malrakeshs-
 ## Usage
 
 Open `index.html` in your browser to view the project.
-
-<br> 
-
-## Configuration
-
-Details on how to configure the project, if applicable.
 
 <br> 
 
